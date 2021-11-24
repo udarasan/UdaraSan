@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udarasan&label=Profile%20views&color=0e75b6&style=flat" alt="udarasan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udarasan" alt="udarasan" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=udarasan&show_icons=true&locale=en&layout=compact" alt="udarasan" /></p>
 
 <p align="left"> <a href="https://twitter.com/udarasan" target="blank"><img src="https://img.shields.io/twitter/follow/udarasan?logo=twitter&style=for-the-badge" alt="udarasan" /></a> </p>
 
@@ -27,4 +27,4 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=udarasan&show_icons=true&locale=en&layout=compact" alt="udarasan" /></p>
+
