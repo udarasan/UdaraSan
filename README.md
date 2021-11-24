@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/udarasan" target="blank"><img src="https://img.shields.io/twitter/follow/udarasan?logo=twitter&style=for-the-badge" alt="udarasan" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **MEAN STACK PRDUCTION LEVEL DEVELOPMENT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/udarasan](https://github.com/udarasan)
 
