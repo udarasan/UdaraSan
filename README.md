@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://udarasan.lk](https://udarasan.lk)
 
-- 💬 Ask me about **Java ,JS ,TS ,PHP ,Html ,CSS ,MongoDB ,SQLSpring_Boot ,Angular ,React-Native ,ExpressJS ,Wordpress ,Microservices ,Docker**
+- 💬 Ask me about **Java ,JS ,PHP ,Html ,CSS ,MongoDB ,SQLSpring_Boot ,Angular ,React-Native ,ExpressJS ,Wordpress ,Microservices ,Docker**
 
 - 📫 How to reach me **udarassanjeewa@gmail.com**
 
