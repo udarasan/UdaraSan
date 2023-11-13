@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java ,JS ,PHP ,Html ,CSS ,MongoDB ,Python ,SQL ,Laravel ,Spring_Boot ,Angular ,React-Native ,ExpressJS ,Wordpress ,Microservices ,Docker, Kubernaties ,Redis ,AEM ,AI**
 
-- 📫 How to reach me **udarassanjeewa@gmail.com**
+- 📫 How to reach me **udara@sans.lk or https://udara.sans.lk **
 
 
 
