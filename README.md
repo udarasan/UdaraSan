@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/udarasan" target="blank"><img src="https://img.shields.io/twitter/follow/udarasan?logo=twitter&style=for-the-badge" alt="udarasan" /></a> </p>
 
-- 💬 Ask me about **Java ,JS ,PHP ,Html ,CSS ,MongoDB ,Python ,SQL ,Laravel ,Spring_Boot ,Angular ,React-Native ,ExpressJS ,Wordpress ,Microservices ,Docker, Kubernaties ,Redis ,AEM ,AI**
+- 💬 Ask me about **Java ,JS ,PHP ,Html ,CSS ,MongoDB ,Python ,SQL ,Laravel ,Spring_Boot ,Angular ,React-Native ,ExpressJS ,Wordpress ,Microservices ,Docker, Kubernaties ,Redis ,AEM ,AI,Flutter,FireBase,Supabase,Shopify,Squerspace**
 
 - 📫 How to reach me **udara@sans.lk or https://udara.sans.lk **
 
