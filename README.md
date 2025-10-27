@@ -1,35 +1,27 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#0078ff;">Udara San</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#1d7a71;">Udara San</span></h1>
 <h3 align="center">🚀 Tech Lead | Software Engineer | Founder & CEO — Based in Sri Lanka 🇱🇰</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=udarasan&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=udarasan&label=Profile%20Views&color=1d7a71&style=flat" alt="Profile views"/>
 </p>
 
 ---
 
-<h3 align="center">🌐 Let's Connect</h3>
-
-<div align="center">
-  <a href="mailto:sans@sans-technologies.com" style="text-decoration:none;margin:0 10px;">
-    <img src="https://img.icons8.com/ios-filled/50/0078ff/new-post.png" width="30" alt="email"/>  
-  </a>
-  <a href="https://udara.sans.lk" target="_blank" style="text-decoration:none;margin:0 10px;">
-    <img src="https://img.icons8.com/ios-filled/50/0078ff/domain.png" width="30" alt="portfolio"/>  
-  </a>
-  <a href="https://linkedin.com/in/udarasan" target="_blank" style="text-decoration:none;margin:0 10px;">
-    <img src="https://img.icons8.com/ios-filled/50/0078ff/linkedin.png" width="30" alt="linkedin"/>  
-  </a>
-  <a href="https://twitter.com/udarasan" target="_blank" style="text-decoration:none;margin:0 10px;">
-    <img src="https://img.icons8.com/ios-filled/50/0078ff/twitter.png" width="30" alt="twitter"/>  
-  </a>
-</div>
-
----
+### 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:sans@sans-technologies.com"><b>Email:</b> sans@sans-technologies.com</a> |
-  <a href="https://udara.sans.lk" target="_blank"><b>Website:</b> udara.sans.lk</a> |
-  <a href="https://linkedin.com/in/udarasan" target="_blank"><b>LinkedIn:</b> udara-san</a>
+  <a href="mailto:sans@sans-technologies.com">
+    <img src="https://img.shields.io/badge/Email-sans%40sans--technologies.com-1d7a71?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://udara.sans.lk" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-udara.sans.lk-1d7a71?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/udarasan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-udarasan-1d7a71?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/udarasan" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@udarasan-1d7a71?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
 </p>
 
 ---
